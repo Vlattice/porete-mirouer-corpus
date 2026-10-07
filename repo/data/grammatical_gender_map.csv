@@ -1,0 +1,21 @@
+term,latin_etymon,gender,route,notes
+ame,"anima, animae",feminine,direct inheritance,
+raison,"ratio, rationis",feminine,direct inheritance,
+vertu,"virtus, virtutis",feminine,direct inheritance,
+charité,"caritas, caritatis",feminine,direct inheritance,
+foy,"fides, fidei",feminine,direct inheritance,
+esperance,"spes, spei (via *sperantia)",feminine,direct inheritance,
+verité,"veritas, veritatis",feminine,direct inheritance,
+deité,"deitas, deitatis",feminine,direct inheritance,
+trinité,"trinitas, trinitatis",feminine,direct inheritance,
+eglise,"ecclesia, ecclesiae",feminine,direct inheritance,
+crainte,(deverbal),feminine,direct inheritance,
+franchise,—,feminine,direct inheritance,
+volenté,"voluntas, voluntatis",feminine,direct inheritance,
+amour,"amor, amoris (MASCULINE)",feminine,"regular Old French feminisation of -our/-eur nouns","NOT a direct Latin inheritance, and NOT an exception: Old French regularly feminised this class (cf. douleur, peur). Littré: ""était féminin dans l'ancienne langue, comme tous les noms ainsi dérivés""; Grevisse: ""n'avait, dans l'ancienne langue, que le genre féminin"". The singular was masculinised only in the 16th-17th c. by grammarians aligning usage with the Latin etymon. In the Middle French of the Mirouer, feminine amour is the period norm."
+dieu,"deus, dei",masculine,direct inheritance,
+esperit,"spiritus, spiritus",masculine,direct inheritance,
+seigneur,"senior, senioris",masculine,direct inheritance,
+sire,"senior, senioris",masculine,direct inheritance,
+néant,*ne gentem / ne entem,masculine,direct inheritance,"le néant. Not feminine: the Soul (l'ame, f.) or Life (la vie, f.) are annihilated INTO a grammatically masculine void."
+anientie,—,n/a,participle,"Agrees with the noun it modifies (l'ame anientie is feminine because ame is); has no gender of its own."

@@ -1,0 +1,3 @@
+2c1495a80ba877e3293a4bbde7930e80454d9a4b4cafcbcea2336abe8f545547  raw/Margarita_wikisource_raw.txt
+7a31c4508720e02161029d920db82caaa895efb3944d754ea487de94ad81c10b  ../corpus/mirouer_corpus_clean.txt
+1851236cad8c326a50975f22956461e4d2d804ff9f30f22769159cea20d07362  ../corpus/dialogue_turns.csv

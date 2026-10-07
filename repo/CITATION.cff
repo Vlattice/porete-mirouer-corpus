@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Le Mirouer des simples âmes: annotated corpus and dialogue network"
+message: "If you use this corpus or the speaker-extraction protocol, please cite it."
+type: dataset
+abstract: >-
+  A machine-readable corpus of Marguerite Porete's Le Mirouer des simples âmes
+  anienties (Middle French, Chantilly manuscript), with a documented
+  speaker-extraction protocol and a reproducible analysis of the distribution
+  of dialogue turns among its allegorical figures.
+keywords:
+  - digital humanities
+  - computational philology
+  - Middle French
+  - Marguerite Porete
+  - character networks
+  - grammatical gender
+license: CC-BY-4.0
+authors:
+  - given-names: "Verónica"
+    family-names: "Zumpano Blumenfeld"

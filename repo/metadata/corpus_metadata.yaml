@@ -1,0 +1,70 @@
+title: "Le Mirouer des simples âmes: annotated dialogue corpus"
+version: "1.0"
+language:
+  primary: fro
+  label: Middle French
+
+text:
+  author_attribution: Marguerite Porete
+  composition_date:
+    not_before: 1290
+    not_after: 1300
+
+source_witness:
+  repository: "Musée Condé, Chantilly"
+  description: "Complete Middle French witness used as the transcriptional base"
+  critical_edition_not_used: >
+    Guarnieri, R. & Verdeyen, P. (eds.), Le Mirouer des simples ames /
+    Speculum simplicium animarum, CCCM 69, Brepols, 1986. This corpus is NOT
+    collated against it; see docs/speaker-audit.md.
+
+base_transcription:
+  provider: Wikisource
+  source_file: source/raw/Margarita_wikisource_raw.txt
+  checksums: source/checksums/SHA256SUMS.txt
+
+normalization:
+  orthography: preserved
+  editorial_normalization: none
+  uncertainty_marks:
+    description: "(?) marks are in the Wikisource transcription, not the manuscript"
+    total: 833
+    resolved_by_dictionary: 673
+    unresolved: 160
+    unresolved_treatment: "mark stripped, letter not reconstructed; listed in docs/"
+
+annotation:
+  unit: dialogue turn
+  turn_definition: >
+    A stretch of direct discourse opened by an explicit speaker label in the
+    manuscript. A new turn begins where a new label appears. Turn text runs to
+    the first paragraph break.
+  turns_main_analysis: 379
+  chapters_containing_turns: 97
+  chapters_without_labelled_turns: 42
+  turns_regular_label: 331
+  turns_irregular_label_audited: 48
+  midline_labels_excluded: 4
+  editorial_restorations: 0
+  file: corpus/dialogue_turns.csv
+
+chapter_identification:
+  method: "numeric markers in the corpus (1-139), never title matching"
+  titles_file: corpus/chapter_titles.txt
+  titles_source: "table of chapters opening the manuscript, not the in-text rubrics"
+  note: >
+    Table titles and in-text rubrics diverge orthographically; a string
+    comparison between them fails for 78 of 139 chapters without this being an
+    inconsistency. Median similarity 0.73; 120 of 139 above 0.60.
+
+analysis:
+  software: [Python 3, networkx, matplotlib]
+  graph_type: directed
+  edge_definition: "Transition between consecutive turns by different figures, within a chapter"
+  edges: 243
+  centrality: "networkx.degree_centrality() on the directed graph"
+
+license:
+  documentation_code_derived_data: CC-BY-4.0
+  base_transcription: "Consult Wikisource licensing before redistribution"
+  underlying_work: "Public domain (c. 1290-1300)"
