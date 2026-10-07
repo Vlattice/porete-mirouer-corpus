@@ -13,6 +13,21 @@ Anyone counting who speaks in this text without auditing that inconsistency will
 > Before interpreting the gender of the voices in the *Mirouer*, one has to establish whether that gender comes from grammar, from linguistic tradition, or from a textual decision. And before counting who speaks, one has to audit how speakers are identified.
 
 That is the order this repository follows, and the reason the audit protocol is published alongside the counts rather than behind them. See [`docs/bibliography.md`](https://github.com/Vlattice/porete-mirouer-corpus/blob/main/docs/bibliography.md) for the state of the art in speaker attribution and character networks that frames the method.
+## Integrated contribution
+
+This repository brings together five fields that rarely operate within the same workflow:
+
+| Field                      | Contribution                                                                                                               |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Historical linguistics** | The origin, evolution, and limits of grammatical gender, checked against Latin etyma                                       |
+| **Medieval philology**     | The manuscript source, Middle French spelling, textual variants, uncertainty marks, and editorial decisions                |
+| **Digital humanities**     | A machine-readable corpus, a documented speaker-attribution protocol, reproducible counts, and a directed dialogue network |
+| **Gender studies**         | A critical framework for personification, voice, agency, and the distinction between grammatical and social gender         |
+| **Medieval mysticism**     | An interpretive framework for Love, the Soul, Reason, annihilation, and the distribution of spiritual authority            |
+
+The digital-humanities contribution is not automation for its own sake. It establishes a transparent bridge between a medieval manuscript and reproducible computational analysis: each transformation—from uncertainty marks and irregular speaker labels to dialogue turns, network edges, and frequency counts—is documented and can be inspected, rerun, challenged, or extended.
+
+The project therefore does not reduce a mystical text to data. Instead, it makes the textual decisions behind each datum visible: what was counted, what was excluded, what remained unresolved, and why. Computational methods thus serve medieval philology rather than replace it.
 
 ## Headline figures
 
