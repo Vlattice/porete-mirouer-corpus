@@ -83,6 +83,7 @@ analysis:
     can contribute in both directions. It is not a count of distinct
     interlocutors.
   turn_trajectory: data/turn_trajectory_quintiles.csv
+  doi: "10.5281/zenodo.23375028"
 
 license:
   documentation_code_derived_data: CC-BY-4.0
