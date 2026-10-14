@@ -1,0 +1,20 @@
+term,count,category,note
+personne,20,figure-construction vocabulary,singular only
+personnes,6,figure-construction vocabulary,plural only; NOT a subset of the 20
+prsonne/psonne,13,figure-construction vocabulary,"manuscript abbreviations; missed by any pattern matching only ""personne"""
+semblance,7,figure-construction vocabulary,
+semblances,0,figure-construction vocabulary,
+figure,2,figure-construction vocabulary,
+figures,0,figure-construction vocabulary,
+ce livre,63,other-convention vocabulary,"includes 4 ""en ce livre"" and 14 ""de ce livre"" — subsets, not additive"
+mon entendement,6,other-convention vocabulary,"includes 4 ""de mon entendement"" — subset, not additive"
+exemple,19,other-convention vocabulary,singular
+exemples,2,other-convention vocabulary,plural
+clerc,1,other-convention vocabulary,
+clers,4,other-convention vocabulary,
+clergie,0,other-convention vocabulary,
+senefiance,0,other-convention vocabulary,
+allegorie,0,other-convention vocabulary,
+latin,0,other-convention vocabulary,
+romanz,0,other-convention vocabulary,
+françois,0,other-convention vocabulary,

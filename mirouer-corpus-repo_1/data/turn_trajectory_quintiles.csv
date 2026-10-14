@@ -1,0 +1,6 @@
+block,turns_in_block,chapters,lame_turns,lame_share_pct,amor_turns,amor_share_pct,raison_turns,raison_share_pct,lame_tokens
+Q1,75,1-19,4,5.3,45,60.0,23,30.7,874
+Q2,76,19-40,20,26.3,34,44.7,21,27.6,2179
+Q3,76,41-59,23,30.3,28,36.8,13,17.1,1408
+Q4,76,59-79,29,38.2,28,36.8,13,17.1,2084
+Q5,76,79-133,41,53.9,19,25.0,9,11.8,3095

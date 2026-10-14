@@ -1,0 +1,22 @@
+term,latin_etymon,gender,route,notes
+ame,"anima, animae",feminine,direct inheritance,
+raison,"ratio, rationis",feminine,direct inheritance,
+vertu,"virtus, virtutis",feminine,direct inheritance,
+charité,"caritas, caritatis",feminine,direct inheritance,
+foy,"fides, fidei",feminine,direct inheritance,
+esperance,"spes, spei (via *sperantia)",feminine,Late Latin / Romance formation (*sperantia),
+verité,"veritas, veritatis",feminine,direct inheritance,
+deité,"deitas, deitatis",feminine,direct inheritance,
+trinité,"trinitas, trinitatis",feminine,direct inheritance,
+eglise,"ecclesia, ecclesiae",feminine,direct inheritance,
+crainte,craindre (French deverbal),feminine,"Romance formation, not inheritance","Feminine by French morphology, not by a Latin noun gender."
+franchise,franc + -ise (French derivation),feminine,"Romance formation, not inheritance",
+volenté,"voluntas, voluntatis",feminine,direct inheritance,
+amour,"amor, amoris (MASCULINE)",feminine,regular Old French feminisation of -our/-eur nouns,"NOT a direct Latin inheritance, and NOT an exception: Old French regularly feminised this class (cf. douleur, peur). Littré: ""était féminin dans l'ancienne langue, comme tous les noms ainsi dérivés""; Grevisse: ""n'avait, dans l'ancienne langue, que le genre féminin"". The singular was masculinised only in the 16th-17th c. by grammarians aligning usage with the Latin etymon. In the Middle French of the Mirouer, feminine amour is the period norm."
+dieu,"deus, dei",masculine,direct inheritance,
+esperit,"spiritus, spiritus",masculine,direct inheritance,
+seigneur,"senior, senioris",masculine,direct inheritance,
+sire,"senior, senioris",masculine,direct inheritance,
+néant,"hypothesis: VL *ne gentem (gens, gentis, FEMININE)",masculine,Romance formation; masculine regardless of etymon,"le néant. Substantivised indefinite pronoun, masculine by the default the French system assigns to that class. The *ne gentem derivation is a hypothesis (Körting 1896, recorded by TLFi, accepted by FEW), not established; TLFi marks it ""prob."". Note the etymon head gens, gentis is feminine, so the masculine is in no case inherited. Configuration in the text: a grammatically feminine Soul annihilated INTO a grammatically masculine void."
+anientie,—,n/a,participle,Agrees with the noun it modifies (l'ame anientie is feminine because ame is); has no gender of its own.
+acteur,"actor, actoris",masculine,direct inheritance,"Authorial voice. Opens one turn in the Prologue (T384); recorded, excluded from the main 379 set under rule A08. See docs/speaker-audit.md."
