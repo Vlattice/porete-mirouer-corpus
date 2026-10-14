@@ -1,6 +1,14 @@
 cff-version: 1.2.0
 title: "Le Mirouer des simples âmes: annotated corpus and dialogue network"
 message: "If you use this corpus or the speaker-extraction protocol, please cite it."
+If you use the corpus or the protocol, please cite it:
+
+> Zumpano Blumenfeld, Verónica. *Le Mirouer des simples âmes: annotated corpus
+> and dialogue network*. v1.1, 2026. DOI: [10.5281/zenodo.23375027](https://doi.org/10.5281/zenodo.23375027)
+
+That DOI always resolves to the latest version. To cite v1.1 specifically: [10.5281/zenodo.23375028](https://doi.org/10.5281/zenodo.23375028).
+
+Machine-readable metadata is in `CITATION.cff`.
 type: dataset
 abstract: >-
   A machine-readable corpus of Marguerite Porete's Le Mirouer des simples âmes
@@ -16,7 +24,4 @@ keywords:
   - grammatical gender
 license: CC-BY-4.0
 authors:
-  - given-names: "Verónica"
-    family-names: "Zumpano Blumenfeld"
-version: "1.1"
-doi: "10.5281/zenodo.23375028"
+  
